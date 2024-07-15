@@ -1,0 +1,10 @@
+
+/.vcxproj
+/.vcxproj.filters
+/bin-obj
+/bin
+/Libraries/fastgltf/.github
+/Libraries
+*.vcxproj
+*.vcxproj
+*.filters
